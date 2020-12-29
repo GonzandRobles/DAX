@@ -1,2 +1,2 @@
-# DAX-
+# DAX
 Most common DAX formulas
